@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+yfinance
+matplotlib
+tensorflow==2.19.0
+joblib
+protobuf>=3.20,<5
+h5py
+scikit-learn
